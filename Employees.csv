@@ -1,0 +1,9 @@
+EmpID,Name,City,Age,Salary,Department
+101,Alice,London,32,50000,HR
+102,Bob,Paris,31,60000,Finance
+103,Chris,NewYork,35,40000,DBA
+104,David,London,37,,IT
+105,Emily,Paris,33,55000,HR
+106,Gina,Paris,34,,IT
+107,Charlie,Boston,29,45000,
+108,Paul,Sydney,30,50000,DBA
